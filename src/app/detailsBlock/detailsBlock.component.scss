@@ -1,0 +1,28 @@
+.mat-mdc-dialog-actions {
+    justify-content: end !important;
+    margin-top: 100px !important;
+}
+.mdc-data-table__header-cell {
+    background-color: #54d695 !important;
+    box-sizing: border-box;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    outline: none;
+    text-align: left;
+    color: #ffffff !important;
+    font-size: 16px;
+}
+.mdc-data-table__cell {
+    font-size: 14px;
+}
+button{
+    background-color: rgb(131, 131, 131) !important;
+    color: black !important;
+    width: 80px;
+  height: 5px;
+  border-radius: 20px;
+}
+button:hover{
+    background-color: black !important;
+    color: rgb(255, 255, 255) !important;
+}

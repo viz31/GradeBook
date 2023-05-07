@@ -1,0 +1,63 @@
+<div class="details-block">
+<div class="mat-elevation-z8">
+    <table mat-table [dataSource]="dataSource" matSort class="dialog-table">
+
+        <!-- Sr.No. Column -->
+        <ng-container matColumnDef="no">
+            <th mat-header-cell *matHeaderCellDef mat-sort-header>Sr.No.</th>
+            <td mat-cell *matCellDef="let row"> {{row.no}} </td>
+        </ng-container>
+
+        <!-- Students Name Column -->
+        <ng-container matColumnDef="name">
+            <th mat-header-cell *matHeaderCellDef mat-sort-header>St.Name</th>
+            <td mat-cell *matCellDef="let row"> {{row.name}} </td>
+        </ng-container>
+
+        <!-- Registration Number Column -->
+        <ng-container matColumnDef="ticket_number">
+            <th mat-header-cell *matHeaderCellDef mat-sort-header>Reg.No.</th>
+            <td mat-cell *matCellDef="let row"> {{row.ticket_number}} </td>
+        </ng-container>
+
+        <!-- Subject Column -->
+        <ng-container matColumnDef="ticket_topic">
+            <th mat-header-cell *matHeaderCellDef mat-sort-header>Subject </th>
+            <td mat-cell *matCellDef="let row"> {{row.ticket_topic}} </td>
+        </ng-container>
+
+        <!-- Exam Grade Column -->
+        <ng-container matColumnDef="exam_grade">
+            <th mat-header-cell *matHeaderCellDef mat-sort-header>Exam Grade</th>
+            <td mat-cell *matCellDef="let row"> {{row.exam_grade}} </td>
+        </ng-container>
+
+        <!-- Rating Grade Column -->
+        <ng-container matColumnDef="rating_grade">
+            <th mat-header-cell *matHeaderCellDef mat-sort-header>Rating Grade</th>
+            <td mat-cell *matCellDef="let row"> {{row.rating_grade}} </td>
+        </ng-container>
+
+        <!-- CGPA Column -->
+        <ng-container matColumnDef="CGPA">
+            <th mat-header-cell *matHeaderCellDef mat-sort-header>CGPA</th>
+            <td mat-cell *matCellDef="let row"> {{row.CGPA}} </td>
+        </ng-container>
+
+        <!-- Comment Column -->
+        <ng-container matColumnDef="comment">
+            <th mat-header-cell *matHeaderCellDef mat-sort-header>Comment</th>
+            <td mat-cell *matCellDef="let row"> {{row.comment}} </td>
+        </ng-container>
+
+        <tr mat-header-row *matHeaderRowDef="displayedColumns" class="mat-header-row"></tr>
+        <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+    </table>
+
+    <!-- Close Button -->
+    <div mat-dialog-actions class="close-btn">
+      <button mat-button (click)="closeDialog()">Close</button>
+    </div>
+</div>
+</div>
+

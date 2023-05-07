@@ -1,0 +1,20 @@
+[
+{"no":1,"name":"Sourin Ghosh","ticket_number":"11918908","ticket_topic":"Web Development","rating_grade":4,"exam_grade":2,"final_grade":0,"status":"","CGPA":5.81,"comment":""},
+{"no":2,"name":"Aditya Singh","ticket_number":"1190985","ticket_topic":"DBMS","rating_grade":5,"exam_grade":5,"final_grade":0,"status":"","CGPA":7.23,"comment":""},
+{"no":3,"name":"Ajay Rawat","ticket_number":"11903698","ticket_topic":"Networking","rating_grade":3,"exam_grade":3,"final_grade":0,"status":"","CGPA":3.00,"comment":""},
+{"no":4,"name":"Vishal Mishra","ticket_number":"11907423","ticket_topic":"Cyber Security","rating_grade":8,"exam_grade":8,"final_grade":0,"status":"","CGPA":9.41,"comment":""},
+{"no":5,"name":"Adarsh Kumar","ticket_number":"11907657","ticket_topic":"Front End","rating_grade":5,"exam_grade":6,"final_grade":0,"status":"","CGPA":5.00,"comment":""},
+{"no":6,"name":"Sakshi Sai Kiran","ticket_number":"11913672","ticket_topic":"Back End","rating_grade":3,"exam_grade":1,"final_grade":0,"status":"","CGPA":2.00,"comment":""},
+{"no":7,"name":"Samayamanthula Sai","ticket_number":"11913719","ticket_topic":"Database","rating_grade":1,"exam_grade":2,"final_grade":0,"status":"","CGPA":3.00,"comment":""},
+{"no":8,"name":"Tanneru Ramarao","ticket_number":"11902038","ticket_topic":"Web Development","rating_grade":3,"exam_grade":4,"final_grade":0,"status":"","CGPA":5.11,"comment":""},
+{"no":9,"name":"Sunku Kumar","ticket_number":"11903708","ticket_topic":"Front End","rating_grade":7,"exam_grade":9,"final_grade":0,"status":"","CGPA":8.92,"comment":""},
+{"no":10,"name":"Nishant Singh","ticket_number":"11903268","ticket_topic":"Cyber Security","rating_grade":5,"exam_grade":5,"final_grade":0,"status":"","CGPA":4.21,"comment":""},
+{"no":11,"name":"Sweety Kumari","ticket_number":"11900238","ticket_topic":"Front End","rating_grade":8,"exam_grade":7,"final_grade":0,"status":"","CGPA":7.96,"comment":""},
+{"no":12,"name":"Abinash Prusty","ticket_number":"11900038","ticket_topic":"Cyber Security","rating_grade":2,"exam_grade":3,"final_grade":0,"status":"","CGPA":3.25,"comment":""},
+{"no":13,"name":"Srishti Saini","ticket_number":"11907408","ticket_topic":"Networking","rating_grade":6,"exam_grade":5,"final_grade":0,"status":"","CGPA":6.51,"comment":""},
+{"no":14,"name":"Gautam Kumar","ticket_number":"11913201","ticket_topic":"DBMS","rating_grade":4,"exam_grade":3,"final_grade":0,"status":"","CGPA":3.85,"comment":""},
+{"no":15,"name":"Nitesh Khatri","ticket_number":"11917382","ticket_topic":"Cyber Security","rating_grade":5,"exam_grade":5,"final_grade":0,"status":"","CGPA":5.41,"comment":""},
+{"no":16,"name":"Abnes Jose","ticket_number":"11902090","ticket_topic":"Front End","rating_grade":9,"exam_grade":7,"final_grade":0,"status":"","CGPA":7.00,"comment":""},
+{"no":17,"name":"Praveen Kumar","ticket_number":"11903010","ticket_topic":"Back End","rating_grade":6,"exam_grade":3,"final_grade":0,"status":"","CGPA":6.21,"comment":""},
+{"no":18,"name":"Shubham Saket","ticket_number":"11903051","ticket_topic":"Database","rating_grade":9,"exam_grade":9,"final_grade":0,"status":"","CGPA":8.25,"comment":""}
+]

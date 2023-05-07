@@ -1,0 +1,66 @@
+td, th {
+  width: 15%;
+  background-color: #e9e9e9;
+}
+p{ 
+  font-size: 12px;
+}
+button{
+  background-color: rgb(131, 131, 131) !important;
+  color: black !important;
+  width: 80px;
+  height: 5px;
+  border-radius: 20px;
+}
+button:hover{
+  background-color: black !important;
+  color: rgb(255, 255, 255) !important;
+}
+.example-spacer {
+  flex: 1 1 auto;
+}
+table {
+  width: 100%;
+}
+.mat-mdc-form-field {
+  font-size: 14px;
+  margin-right: 10px;
+}
+.sort{
+  margin-top: 80px;
+  margin-left: 63%; 
+}
+.example-container mat-form-field + mat-form-field {
+  margin-left: 8px;
+}
+.selectedRow .mdc-data-table__cell{
+  background-color: #54d695;
+  font-weight: 300;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+.selectedRow{
+  text-transform: uppercase;
+}
+.mat-button-toggle-checked {
+  background-color: #54d695;
+  color: #ffffff;
+}
+.mat-form-field{
+  width: 10vw !important;
+}
+.mdc-data-table__header-cell {
+  font-size: 16px;
+}
+.mdc-data-table__cell{
+  font-size: 14px;
+}
+.mat-button-toggle-label-content{
+  font-weight: 500 !important;
+}
+.mdc-list-item__primary-text{
+  font-size: 12px !important;
+}
+.mat-mdc-list-item {
+  font-size: 12px;
+}
